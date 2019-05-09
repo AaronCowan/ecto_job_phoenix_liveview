@@ -1,3 +1,7 @@
+# Local EctoJob Repo
+
+Ensure your local ecto_job repo is at location `../ecto_job` because the mix.exs file points to `{:ecto_job, path: "../ecto_job"}`
+
 # MyApp
 
 To start your Phoenix server:
